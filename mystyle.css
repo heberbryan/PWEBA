@@ -1,0 +1,39 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: beige;
+    font-size: 40px;
+}
+a:link {
+    text-decoration: none;
+    color: blue;
+}
+a:visited{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    font-size: larger;
+    color: yellow;
+    text-decoration: underline;
+}
+
+.headingorange {
+    color: orange;
+}
+
+.parratakanan {
+    text-align: right;
+}
+
+.partengah {
+    text-align: center;
+}
+
+.rcorners2 {
+    border-radius: 25px;
+    border: 10px solid #73AD21;
+    padding: 20px;
+    width: 400px;
+    height: 100px;
+  }
+  
